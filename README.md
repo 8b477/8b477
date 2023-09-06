@@ -4,7 +4,7 @@
 
 <pre>
 Enthousiaste développeur avec une passion pour la compréhension de notre monde numérique en constante évolution.<br>
-      Mon voyage dans le monde du développement a commencé grâce à ma nature curieuse et ma fascination pour les technologies<br>
+      Mon voyage dans le monde du développement à travers ma nature curieuse et ma fascination pour les technologies<br>
             Au fil du temps, cette fascination s'est transformée en une passion pour l'environnement du développement.
 </pre>
 
