@@ -1,14 +1,17 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <img width=100% title="Hornet-Developer" alt="Hornet-Developer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Fullstack-Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-  <h4 align="center">
 
-</h4>
+<pre>
+Enthousiaste développeur avec une passion pour la compréhension de notre monde numérique en constante évolution.<br>
+      Mon voyage dans le monde du développement a commencé grâce à ma nature curieuse et ma fascination pour les technologies<br>
+           de l'information qui nous entourent.<br>
+              Au fil du temps, cette fascination s'est transformée en une véritable passion pour l'environnement du développement.<br>
+</pre>
+
   
   <h2 align="center"> 
     
-
-
 ![Badge CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Badge Dotnet](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Badge MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
