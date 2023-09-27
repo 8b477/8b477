@@ -2,11 +2,11 @@
 <img width=100% title="Hornet-Developer" alt="Hornet-Developer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Fullstack-Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 
-<pre>
-Enthousiaste développeur avec une passion pour la compréhension de notre monde numérique en constante évolution.<br>
-      Un voyage dans le monde du développement à travers ma nature curieuse et ma fascination pour les technologies.<br>
-            Au fil du temps, ma fascination s'est transformée en une véritable passion pour l'environnement du développement
-</pre>
+
+>Enthousiaste développeur avec une passion pour la compréhension de notre monde numérique en constante évolution.</br>
+Un voyage dans le monde du développement à travers ma nature curieuse et ma fascination pour les technologies,</br>
+au fil du temps, ma fascination s'est transformée en une véritable passion pour l'environnement du développement
+
 
   
   <h2 align="center"> 
