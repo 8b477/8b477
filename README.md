@@ -3,7 +3,7 @@
 
 
 
->Enthousiaste développeur avec une passion pour la compréhension de notre monde numérique en constante évolution.</br>
+>Enthousiaste développeur avec une passion pour la compréhension de notre monde numérique en constante évolution.</br></br>
 Un voyage dans le monde du développement à travers ma nature curieuse et ma fascination pour les technologies,
 au fil du temps, ma fascination s'est transformée en une véritable passion pour l'environnement du développement
 
