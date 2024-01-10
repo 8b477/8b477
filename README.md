@@ -20,4 +20,3 @@ au fil du temps, ma fascination s'est transformée en une véritable passion pou
 </h2>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
